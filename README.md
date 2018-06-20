@@ -8,4 +8,4 @@ Personal website main page [Theme: Icons] (html/css)
 
 
 ## when the cursor is on menu icon
-![Optional Text](../master/iconic_cursorOnMenu.png)
+![Alt Text](https://j.gifs.com/mQzlEn.gif)
